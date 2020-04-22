@@ -13,3 +13,7 @@ manala_shorewall_configs:          []
 # Config
 manala_shorewall_config_file: /etc/shorewall/shorewall.conf
 manala_shorewall_config:      []
+
+# Params
+manala_shorewall_params_file: /etc/shorewall/params
+manala_shorewall_params:      []

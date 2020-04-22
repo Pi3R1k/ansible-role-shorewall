@@ -15,3 +15,8 @@
   tags:
     - manala_shorewall
     - manala_shorewall.config
+# Params
+- import_tasks: params.yml
+  tags:
+    - manala_shorewall
+    - manala_shorewall.params
